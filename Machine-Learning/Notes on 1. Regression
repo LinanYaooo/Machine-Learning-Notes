@@ -1,0 +1,22 @@
+1. Regression is a simple concept where sometimes we wish to find a fitted model to a given dataset and turn it out as a usefull
+   tools to serve us on doing some techniqcal task. For examples, we can fit a curve to describe the relationship between the 
+   Voltage and the temporature of a heater, that is when we find a regression form of the heater model. More clearly, if the model
+   or the curve fits fairly well (such as satisfy some mathematical requirement like least squares or maximum aposteriori estimate) 
+   we wish to see an unbiased model.
+
+2. By the way, one of the reasons that I like to learn machine learning is because I took the Advanced Signal Processing subject in
+   the last semester of my Melbourne uni study period. And I had the opportunity to learn and understand theory of a regression method.
+   What I know around the most learners is that most of them can use the machine learning tools very well such as Python and other library.
+   But sometimese and somehow thery don't need to necessarily understand the behind theory math of what they are using. And My opinion
+   is actually every software tools must have a mathematical meaning behind it. It can only make sense when we understand the real picture
+   that we can utlise a tool very well, because it will make things more flexible and can allow us to follow an engineering step: 1. Encou-
+   nter a problem 2. Solve that problem.
+   
+ 3. The 1. Regression py file covers the 1st-4th videos contents of sentdex, it mainly describe how to kick-start to train a simple 
+    classifier with the given data, where we can formulate a group of features(material) and labels(product). However, there is not
+    enough explanation in these first 4 videos, but I think it's interesting enough.
+    
+ 4. Python package are used in this prject: 1. quandl(for grabing useful data set on the Internet);
+                                            2. Pandas(haven't used)
+                                            3. sklearn(a training data generator, 'I think so')
+                                            
