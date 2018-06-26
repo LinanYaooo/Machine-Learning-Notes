@@ -8,3 +8,4 @@ supported by the streamer called 'sentdex'. And I am gonna take some notes perio
 and share some progress I've made on the experiment. Machine learning is always a cool stuff that 
 every IT and Engineering student want to give it a try. And it is obvious that it gives some sweet
 in seeking a proper job. Thanks and Good luck.
+https://www.youtube.com/watch?v=OGxgnH8y2NM sentdex's video
